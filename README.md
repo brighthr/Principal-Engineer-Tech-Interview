@@ -23,6 +23,7 @@ We do want you to talk about the design and the thinking that got you to it - th
 
 Note down assumptions you make and constraints you might hit.
 
-BrightHR uses Microsoft Azure, but you can base your solution around another cloud provider or on-prem if that's where your experience lies.
+BrightHR uses Microsoft Azure with a .NET back-end stack, but you can base your solution around another cloud provider or on-prem if that's where your experience lies.
 
-You can explain your solution in any way you feel comfortable - pen and pad, on a whiteboard, a slide deck, Visio diagrams, voice and gestures etc.
+You can explain your solution in any way you feel comfortable - pen and pad, on a whiteboard, a slide deck, Visio diagrams, voice and gestures etc. Please let us know if you 
+want a whiteboard to present with.
