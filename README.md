@@ -22,7 +22,7 @@ The emails are due to be sent between 7-8am in the morning.
 
 BrightHR operates in the UK, the Republic of Ireland, Canada, Australia and New Zealand - with data centres across these regions.
 
-Any one company and it's users are in one region.
+Any one company and its users are in one region.
 
 ## Instructions
 
